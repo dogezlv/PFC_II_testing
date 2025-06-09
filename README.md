@@ -4,3 +4,4 @@
 
 - Interfaz base implementada con estructura modular/cambiante
 - Componentes visuales básicos para la integración de agentes RL
+- Base de datos encontrada para experimentacion
